@@ -24,9 +24,10 @@ Steps Undertaken:
 
             1) Building the hardware of the Chassie.
             A sample image of the car:
-                  ![WhatsApp Image 2022-11-11 at 11 37 32 AM (1)](https://user-images.githubusercontent.com/91423180/201275055-342c621b-aa89-4049-a845-09522e5289c3.jpeg)
+                  ![Car image2](https://user-images.githubusercontent.com/91423180/201275786-e0ccb680-2775-4579-a67b-efb7d917bd2a.jpeg)
+                  
+                  ![Car image](https://user-images.githubusercontent.com/91423180/201275789-8c15e871-57df-4133-af3c-c42a9ef4efba.jpeg)
 
-                  ![WhatsApp Image 2022-11-11 at 11 37 32 AM](https://user-images.githubusercontent.com/91423180/201275081-e2badab2-dcb7-4df2-bf8d-7794cdaa998d.jpeg)
 
 
 
