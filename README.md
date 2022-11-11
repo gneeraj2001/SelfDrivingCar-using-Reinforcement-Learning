@@ -19,18 +19,15 @@ Materials Used:
       Wheels and other hardware for the car
 
 
+Sample Images of the Car:
+![image](https://user-images.githubusercontent.com/91423180/201276236-33f856c4-9013-4240-8b08-5b62239cdde5.png)
+![image](https://user-images.githubusercontent.com/91423180/201276393-18fc183f-32ff-4b92-b230-b86d41096708.png)
+
 
 Steps Undertaken:
 
             1) Building the hardware of the Chassie.
-            A sample image of the car:
-                  ![Car image2](https://user-images.githubusercontent.com/91423180/201275786-e0ccb680-2775-4579-a67b-efb7d917bd2a.jpeg)
-                  
-                  ![Car image](https://user-images.githubusercontent.com/91423180/201275789-8c15e871-57df-4133-af3c-c42a9ef4efba.jpeg)
-
-
-
-
+           
             2) Configorating the raspberry pi Camera to detect lanes (marked using colored insulation tape)
             Opencv module was used for this.
                   Steps:
