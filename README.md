@@ -24,6 +24,11 @@ Steps Undertaken:
 
             1) Building the hardware of the Chassie.
             A sample image of the car:
+                  ![image](https://user-images.githubusercontent.com/91423180/201274801-2f901535-912b-4264-ad78-9a4b596b432f.png)
+                  
+                  ![image](https://user-images.githubusercontent.com/91423180/201274831-5d6f3fe8-b1eb-471f-a454-029f033c032e.png)
+
+
 
             2) Configorating the raspberry pi Camera to detect lanes (marked using colored insulation tape)
             Opencv module was used for this.
